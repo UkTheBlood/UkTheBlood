@@ -6,7 +6,7 @@
 
 ## 📬 Contact
 <div>
-  <p>E-mail: lskkhj1005@navercom</p>
+  <p>E-mail: lskkhj1005@naver.com</p>
   <p>Blog: https://uk-the-blood.tistory.com/</p>
 </div>
 
